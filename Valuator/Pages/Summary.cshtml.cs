@@ -1,4 +1,4 @@
-using System;
+п»їusing System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -24,7 +24,7 @@ namespace Valuator.Pages
         {
             _logger.LogDebug(id);
 
-            //TODO: проинициализировать свойства Rank и Similarity сохранёнными в БД значениями
+            //TODO: РїСЂРѕРёРЅРёС†РёР°Р»РёР·РёСЂРѕРІР°С‚СЊ СЃРІРѕР№СЃС‚РІР° Rank Рё Similarity СЃРѕС…СЂР°РЅС‘РЅРЅС‹РјРё РІ Р‘Р” Р·РЅР°С‡РµРЅРёСЏРјРё
         }
     }
 }
