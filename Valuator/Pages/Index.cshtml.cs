@@ -34,8 +34,8 @@ namespace Valuator.Pages
             string rankKey = "RANK-" + id;
             //TODO: посчитать rank и сохранить в БД по ключу rankKey
 
-            string plagiatScoreKey = "PLAGIATSCORE-" + id;
-            //TODO: посчитать plagiat_score и сохранить в БД по ключу plagiatScoreKey
+            string similarityKey = "SIMILARITY-" + id;
+            //TODO: посчитать similarity и сохранить в БД по ключу similarityKey
 
             return Redirect($"summary?id={id}");
         }
