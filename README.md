@@ -17,3 +17,12 @@
 
 ## Задание
 В предоставленном шаблоне приложения дописать недостающий код *(отмечен комментарием **//TODO**)*
+
+## Инструменты разработки и программные компоненты
+
+1. ASP.NET Core 5.0, https://docs.microsoft.com/en-us/aspnet/core/getting-started/?view=aspnetcore-5.0&tabs=windows
+2. Visual Studio Code, https://code.visualstudio.com/
+3. NoSQL база данных Redis, https://redis.io/
+4. Nats, https://nats.io/
+5. Docker, https://www.docker.com/
+6. NGINX, https://www.nginx.com/
