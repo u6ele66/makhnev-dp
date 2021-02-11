@@ -18,12 +18,13 @@ namespace Valuator.Pages
         }
 
         public double Rank { get; set; }
+        public double PlagiatScore { get; set; }
 
         public void OnGet(string id)
         {
             _logger.LogDebug(id);
 
-            //TODO: получить из БД оценку и записать в свойство Rank
+            //TODO: проинициализировать свойства Rank и PlagiatScore сохранёнными в БД значениями
         }
     }
 }
