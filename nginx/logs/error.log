@@ -1,7 +1,0 @@
-2021/03/17 19:51:14 [emerg] 6012#15204: CreateFile() "C:\Users\Lenovo\Desktop\по\nginx/conf/nginx.conf" failed (3: The system cannot find the path specified)
-2021/03/17 19:51:25 [emerg] 11776#13760: CreateFile() "C:\Users\Lenovo\Desktop\по\nginx/conf/nginx.conf" failed (3: The system cannot find the path specified)
-2021/03/17 19:51:49 [emerg] 13080#4424: CreateFile() "C:\Users\Lenovo\Desktop\по\nginx/conf/nginx.conf" failed (3: The system cannot find the path specified)
-2021/03/17 19:53:17 [emerg] 9340#16696: CreateFile() "C:\Users\Lenovo\Desktop\по\nginx/conf/nginx.conf" failed (3: The system cannot find the path specified)
-2021/03/17 19:54:17 [emerg] 9904#3004: CreateFile() "C:\Users\Lenovo\Desktop\по\nginx/conf/nginx.conf" failed (3: The system cannot find the path specified)
-2021/03/17 19:55:03 [emerg] 10500#7212: CreateFile() "C:\Users\Lenovo\Desktop\по\nginx/conf/nginx.conf" failed (3: The system cannot find the path specified)
-2021/03/17 19:56:50 [emerg] 15620#6164: CreateFile() "C:\Users\Lenovo\Desktop\по\nginx/conf/nginx.conf" failed (3: The system cannot find the path specified)
